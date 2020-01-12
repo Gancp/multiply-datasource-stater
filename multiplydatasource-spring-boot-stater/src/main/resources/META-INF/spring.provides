@@ -1,0 +1,1 @@
+provides: mutiplydatasource-spring-boot-autoconfigure,mybatis-spring-boot-autoconfigure,mybatis,mybatis-spring
